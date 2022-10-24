@@ -1,8 +1,8 @@
 ### Skills
 <div style="display: flex;"> 
   <a href="https://github.com/Caio-Pedras">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=CaioPedras&theme=ocean_dark&show_icons=true&layout=default&langs_count=5"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-Pedras&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=CaioPedras&theme=tokyonight&show_icons=true&layout=default&langs_count=5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-Pedras&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 <div style="display: inline_block"/> 
